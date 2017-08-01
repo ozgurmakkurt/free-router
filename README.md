@@ -1,7 +1,7 @@
 # free-router 
 
-## Demo
+### Demo
 * download the repository
 * `npm install & npm run`
 
-## Usage
+### Usage
